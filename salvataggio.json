@@ -1,0 +1,54 @@
+{
+    "save": [
+        {
+            "player": {
+                "id": "gabbo",
+                "level": "easy",
+                "timer": 51.3,
+                "path": "img/profile_image/linux.jpeg",
+                "data": "31/3/2026",
+                "finito": true,
+                "moves": 18,
+                "ship": {
+                    "hit": {
+                        "4.0": [
+                            [
+                                0,
+                                0
+                            ],
+                            [
+                                1,
+                                0
+                            ],
+                            [
+                                2,
+                                0
+                            ],
+                            [
+                                3,
+                                0
+                            ]
+                        ],
+                        "1.1": [
+                            [
+                                2,
+                                1
+                            ]
+                        ],
+                        "2.2": [
+                            [
+                                2,
+                                5
+                            ],
+                            [
+                                2,
+                                6
+                            ]
+                        ]
+                    },
+                    "remaining": {}
+                }
+            }
+        }
+    ]
+}
